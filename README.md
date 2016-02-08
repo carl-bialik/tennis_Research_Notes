@@ -20,7 +20,7 @@ If you want to add something, please submit a pull request. As long as your subm
 
 2. How often do betting odds favor the lower-ranked player? Is it more frequent on clay? Is it rare enough that using higher ranking as a proxy for market favorite is acceptable?
 
-3. Are breaks more frequent immediately after winning a set? (Jeff might have done this one.)
+3. Are breaks more frequent immediately after winning a set?
 
 4. Which players have the greatest variation in serve speed? (Among first serves, or between first and second serves.) Does it have any effect on, say, the success of second serves?
 
@@ -108,9 +108,9 @@ If you want to add something, please submit a pull request. As long as your subm
 
 36. Quantifying volatility in rankings -- particular levels (mid-100) where rankings are particularly meaningless/volatile?
 
-37. Challenges [from carl email]
+37. Challenges
 - Are players more likely to win the point after a successful challenge than they are for all other points in match with same serving situation? 
-- How about after unsuccessful. i.e. any carryover psychologically. I ask because I know of researchers looking at carryover effects from points in which a player wins with lucky net cords.
+- How about after unsuccessful. i.e. any carryover psychologically.
 - If we have names of umps for each match, or court, maybe check if number of successful challenges is tied to particular umps (bad eyes, or hesitant to overrule) or courts (maybe some harder to see or call).
 
 38. Certain players less successful after first matchup with a given player?
@@ -131,7 +131,7 @@ If you want to add something, please submit a pull request. As long as your subm
 
 42. Clutch: using leverage index, see who does the best in high-leverage points
 
-43. when 2 players meet, and one wins x% of points on serve, while opponent’s opponents generally win y% of service points, what is result? Jeff guesses not exactly (x+y)/2, and it depends if x or y is exactly the average for service-points won -- if it is, then the other should dominate the result. Can extend this to other stats -- ace percentage, double-fault rate, and, where available, winner and unforced-error rate. And maybe even if enough data, get more sophisticated -- does extent to which result falls between x and y depend on surface? On home court? On experience levels/age/ranking of both players? On how many times they’ve played?
+43. when 2 players meet, and one wins x% of points on serve, while opponent’s opponents generally win y% of service points, what is result? Guessing not exactly (x+y)/2, and it depends if x or y is exactly the average for service-points won -- if it is, then the other should dominate the result. Can extend this to other stats -- ace percentage, double-fault rate, and, where available, winner and unforced-error rate. And maybe even if enough data, get more sophisticated -- does extent to which result falls between x and y depend on surface? On home court? On experience levels/age/ranking of both players? On how many times they’ve played?
 
 44. which players choose tournaments most strategically, playing in ones
 with easiest fields relative to points/prize money on offer? (and relatedly, which tournaments are best to play in, in those terms)
@@ -165,7 +165,7 @@ opponent in next)
 
 57. Does time per point decrease as careers go on (and guys shorten points to reduce stress on their bodies)
 
-58. controlling for everything else, once past first round of tourney is it better to have had a bye or not? [not sure how to control for everything else, because top eight seeds usually are ones with byes. Maybe compare how No. 9-16 seeds to at IW and Miami vs. at other Masters?]
+58. controlling for everything else, once past first round of tourney is it better to have had a bye or not? [not sure how to control for everything else, because top eight seeds usually are ones with byes. Maybe compare how No. 9-16 seeds do at IW and Miami vs. at other Masters?]
 
 59. what's more predictive of success at majors, other tourneys on that surface; or 
 other majors, regardless of surface; or most recent results
